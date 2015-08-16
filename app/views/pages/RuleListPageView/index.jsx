@@ -37,7 +37,7 @@ export default React.createClass({
         return (
             <PageView>
                 <TitleView>Rules</TitleView>
-                <input 
+                <input
                     type="text"
                     className="search-bar"
                     ref="search"
